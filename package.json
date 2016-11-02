@@ -1,0 +1,23 @@
+{
+  "name": "@dadelus/cli",
+  "version": "0.0.0",
+  "description": "Daedalus CLI for application generation, tooling, and customizations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daedalus-js/daedalus-cli.git"
+  },
+  "keywords": [
+    "generator",
+    "daedalus"
+  ],
+  "author": "daedalus-js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daedalus-js/daedalus-cli/issues"
+  },
+  "homepage": "https://github.com/daedalus-js/daedalus-cli#readme"
+}
